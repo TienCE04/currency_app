@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExchangeMoney</string>
+    <string-array name="money1">
+        <item>Vietnam - Dong</item>
+        <item>United States - Dollar</item>
+        <item>Japan - Yen</item>
+        <item>China - Yuan</item>
+        <item>United Kingdom - Pound</item>
+    </string-array>
+</resources>
